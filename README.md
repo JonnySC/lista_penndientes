@@ -1,1 +1,1 @@
-# lista_penndientes
+# App de lista de pendientes
